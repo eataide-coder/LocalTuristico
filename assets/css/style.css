@@ -1,0 +1,18 @@
+body {
+    background-color: aquamarine;
+    align-self: center;
+    padding: 60px;
+}
+
+img {
+    border-radius: 28px;
+}
+
+#rio, #bondinho, #cristo{
+    padding: 40px;
+}
+
+.textos{
+    height: 1120;
+    width: 164;
+}
